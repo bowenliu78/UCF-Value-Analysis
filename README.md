@@ -3,7 +3,7 @@
 ## Executive Summary
 In the competitive landscape of higher education, institutions must balance accessibility with student outcomes. This project analyzes public data from the U.S. Department of Education to evaluate the market positioning of the University of Central Florida (UCF) relative to its peers.
 
-The analysis focuses on "Institutional Value"—defined here as the relationship between cost of attendance, student debt, and future earning potential. By processing the latest College Scorecard data, this report determines whether UCF provides a superior Return on Investment (ROI) compared to other Florida institutions and identifies key competitive advantages.
+The analysis focuses on "Institutional Value", defined here as the relationship between cost of attendance, student debt, and future earning potential. By processing the latest College Scorecard data, this report determines whether UCF provides a superior Return on Investment (ROI) compared to other Florida institutions and identifies key competitive advantages.
 
 ## Data Source
 * **Source:** U.S. Department of Education College Scorecard
